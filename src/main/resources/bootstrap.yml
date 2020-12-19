@@ -7,5 +7,5 @@ spring:
         git:
           uri: https://git.hushaerp.com/erp/config-repository.git
           clone-on-start: true
-          username: arefnooozhour@gmail.com
-          password: Aref9797
+          username: addres@gmail.com
+          password: 123456
